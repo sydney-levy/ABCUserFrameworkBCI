@@ -1,5 +1,9 @@
 # ABC User Framework for BCIs
 
+Published in Human Computer Interaction International 2022
+
+This paper was created with Alexandra Fischmann as part of a course on Machine Learning and Brain Computer Interfaces at Swarthmore College. 
+
 ### Prerequisites
 - python3
 
