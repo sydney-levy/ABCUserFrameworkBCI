@@ -2,6 +2,8 @@
 
 Published in Human Computer Interaction International 2022
 
+Creates a framework for training users of brain-computer interfaces. 
+
 This paper was created with Alexandra Fischmann as part of a course on Machine Learning and Brain Computer Interfaces at Swarthmore College. 
 
 ### Prerequisites
